@@ -6,7 +6,9 @@ A simple financial analysis web application using Streamlit and Yahoo Finance AP
 This app allows users to input a stock ticker and retrieve real-time financial data, including stock information, price information, and business metrics. The app uses the Yahoo Finance API to fetch and display the data in a user-friendly format.
 
 -[Usage](#usage)
+
 -[Inputs](#inputs)
+
 -[License](#license)
 
 ## Usage
